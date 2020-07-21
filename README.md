@@ -1,0 +1,2 @@
+# SeatSetter
+Seat assignment program
